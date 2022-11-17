@@ -1,8 +1,7 @@
 
 - 👋 *Hi, I’m [@jhk376](https://github.com/jhk376)* 
 - 👀 I’m interested in Software Development
-- 🌱 fresh graduate, currently learning React
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 🌱 fresh graduate, currently learning React<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me [khoojiahongfinds@gmail.com](khoojiahongfinds@gmail.com)
 
 **My React Project**
