@@ -7,10 +7,10 @@
 
 **My React Project**
 >Front-End
-[Youtube Clone App](https://youtubebyclone.netlify.app)
-[Team Member Allocation App](https://teammemberweblocal.netlify.app/)
-[Trading](https://tradingk.netlify.app)
-[Meal App](https://meallocal.netlify.app)
+-[Youtube Clone App](https://youtubebyclone.netlify.app)
+-[Team Member Allocation App](https://teammemberweblocal.netlify.app/)
+-[Trading](https://tradingk.netlify.app)
+-[Meal App](https://meallocal.netlify.app)
 
 
 <!---
