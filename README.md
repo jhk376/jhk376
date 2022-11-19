@@ -7,9 +7,9 @@
 
 **My React Project**
 `Front-End`
-- [Youtube Clone App](https://youtubebyclone.netlify.app)
-- [Team Member Allocation App](https://teammemberweblocal.netlify.app/)
-- [Trading](https://tradingk.netlify.app)
+- [Youtube Clone App](https://youtubeclone-seven.vercel.app/))
+- [Team Member Allocation App](https://team-member-allocation-web.vercel.app/)
+- [Trading](https://trading-k.vercel.app/)
 - [Meal App](https://meallocal.netlify.app)
 
 
