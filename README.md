@@ -7,10 +7,14 @@
 
 **My React Project**
 `Front-End`
-- [Youtube Clone App](https://youtubeclone-seven.vercel.app/) -url: https://youtubeclone-seven.vercel.app/
+- [Youtube Clone App](https://youtubeclone-seven.vercel.app/) 
+ - url: https://youtubeclone-seven.vercel.app/
 - [Team Member Allocation App](https://team-member-allocation-web.vercel.app/)
+  - Url: https://team-member-allocation-web.vercel.app/
 - [Trading](https://trading-k.vercel.app/)
+  - Url: https://trading-k.vercel.app/ 
 - [Meal App](https://meallocal.netlify.app)
+  - Url: https://meallocal.netlify.app 
 
 
 <!---
