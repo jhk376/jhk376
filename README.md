@@ -20,7 +20,9 @@
   - Url: https://meallocal.netlify.app 
   - github: https://github.com/jhk376/MealApp
 
-
+`Data`
+-[SQL_Exercises](https://github.com/jhk376/sqlSolution.git)
+- github: https://github.com/jhk376/sqlSolution.git
 <!---
 jhk376/jhk376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
